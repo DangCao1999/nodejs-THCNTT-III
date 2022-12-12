@@ -18,7 +18,7 @@
   "homepage": "https://github.com/DangCao1999/nodejs-THCNTT-III#readme",
   "dependencies": {
     "@google-cloud/firestore": "^3.8.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.4"
   }
 }
